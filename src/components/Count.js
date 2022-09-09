@@ -1,5 +1,5 @@
 import React from "react";
-import '../stylesheets/Count.css'
+import '../stylesheets/Count.css';
 
 function Count({ numClicks }) {
   return (

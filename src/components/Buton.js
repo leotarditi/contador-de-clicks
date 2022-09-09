@@ -1,5 +1,5 @@
 import React from "react";
-import '../stylesheets/Buton.css'
+import '../stylesheets/Buton.css';
 
 function Buton({ text, isClick, manageClick }) {
   return (

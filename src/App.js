@@ -1,8 +1,8 @@
 import './App.css';
 import Buton from './components/Buton';
 import Count from './components/Count';
-import freeCodeCampLogo from './images/freecodecamp-logo.png'
-import { useState } from 'react'
+import freeCodeCampLogo from './images/freecodecamp-logo.png';
+import { useState } from 'react';
 
 function App() {
 
