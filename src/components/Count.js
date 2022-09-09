@@ -6,7 +6,7 @@ function Count({ numClicks }) {
     <div className="count">
       {numClicks}
     </div>
-  )
+  );
 }
 
 export default Count;

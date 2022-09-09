@@ -3,12 +3,12 @@ import '../stylesheets/Buton.css';
 
 function Buton({ text, isClick, manageClick }) {
   return (
-    <Buton
+    <button
       className={isClick ? 'button-click' : 'button-reboot'}
       onClick={manageClick} >
       {text}
-    </Buton>
-  )
+    </button>
+  );
 }
 
 export default Buton;
